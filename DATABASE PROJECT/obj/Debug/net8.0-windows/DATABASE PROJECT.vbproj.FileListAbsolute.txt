@@ -1,0 +1,26 @@
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\bin\Debug\net8.0-windows\DATABASE PROJECT.exe
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\bin\Debug\net8.0-windows\DATABASE PROJECT.deps.json
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\bin\Debug\net8.0-windows\DATABASE PROJECT.runtimeconfig.json
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\bin\Debug\net8.0-windows\DATABASE PROJECT.dll
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\bin\Debug\net8.0-windows\DATABASE PROJECT.pdb
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\Interop.AXVLC.dll
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE PROJECT.vbproj.ResolveComReference.cache
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE_PROJECT.Form1.resources
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE_PROJECT.Form2.resources
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE_PROJECT.Resources.resources
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE PROJECT.vbproj.GenerateResource.cache
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE PROJECT.AssemblyInfoInputs.cache
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE PROJECT.AssemblyInfo.vb
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE PROJECT.vbproj.CoreCompileInputs.cache
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE PROJECT.dll
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\refint\DATABASE PROJECT.dll
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE PROJECT.pdb
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE PROJECT.genruntimeconfig.cache
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\ref\DATABASE PROJECT.dll
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE_PROJECT.SplashScreen1.resources
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE PROJECT.vbproj.AssemblyReference.cache
+C:\Users\ASEMANI JOSHUA\source\repos\DATABASE PROJECT\obj\Debug\net8.0-windows\DATABASE.CD726FAD.Up2Date
